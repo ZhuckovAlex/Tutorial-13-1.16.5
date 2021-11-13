@@ -1,0 +1,21 @@
+{
+  "item.project.tutorial_item": "Обучающий предмет",
+  "item.project.test_axe": "Тестовый топор",
+  "item.project.test_pickaxe": "Тестовая кирка",
+  "item.project.test_hoe": "Тествая мытыга",
+  "item.project.test_shovel": "Тестовая лопата",
+  "item.project.test_sword": "Тестовый меч",
+
+
+  "block.project.redium": "Редиум",
+  "block.project.firewood_wood": "Древесина огнедерева",
+  "block.project.firewood_log": "Бревно огнедерева",
+  "block.project.firewood_leaves": "Листва огнедерева",
+  "block.project.firewood_planks": "Доски огнедерева",
+  "block.project.firewood_sapling": "Саженец огнедерева",
+  "block.project.stripped_firewood_wood": "Ободранная древесина огнедерева",
+  "block.project.stripped_firewood_log": "Ободранное бревно огнедерева",
+
+  "itemGroup.carrot": "Морковь",
+  "itemGroup.iron_block": "Железный блок"
+}
